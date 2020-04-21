@@ -1,8 +1,4 @@
 # DynGNN
-Some code and papers related to dynamic graph neural networks
-
-
-# Dynamic Knowledge embedding
 This page is to summarize important materials about *dynamic (temporal) embedding*.
 
 
