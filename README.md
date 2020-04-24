@@ -2,7 +2,7 @@
 This page is to summarize important materials about *dynamic (temporal) embedding*.
 
 
-## Dynamic Graph Embedding
+## Methods
 - [TGAT: INDUCTIVE REPRESENTATION LEARNING ON TEMPORAL GRAPHS](https://openreview.net/forum?id=rJeW1yHYwH)
 	- ICLR2020
 - [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX) (Extrapolation)
@@ -38,6 +38,31 @@ This page is to summarize important materials about *dynamic (temporal) embeddin
 - [Dynamic Network Embedding by Modeling Triadic Closure Process](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)
 	- Lekui Zhou, Yang Yang, Xiang Ren, Fei Wu, Yueting Zhuang. AAAI 2018.
 
+## Applications
+
+### 1.Recommand system
+
+### 2.Anomaly detection
+- KDD'18 NetWalk: A flexible deep embedding approach for anomaly detection in dynamic networks
+- IJCAI'19 AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN
+### 3.Traffic forcasting
+
+- Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting
+- Temporal Graph Convolutional Network for Urban Traffic Flow Prediction Method
+- AAAI2019 Gated Residual Recurrent Graph Neural Networks for Traffic Prediction
+
+### 4.Skeleton action recognition
+
+- Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
+
+### App action forecast
+- G-TAD: Sub-Graph Localization for Temporal Action Detection
+
+
+## Task
+- Link prediction
+- Change detection
+- Graph reconstruction
 
 ## Others
 - [Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://arxiv.org/abs/1608.08242)
