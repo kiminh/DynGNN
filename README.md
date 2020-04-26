@@ -1,6 +1,15 @@
 # DynGNN
 This page is to summarize important materials about *dynamic (temporal) embedding*.
 
+## To be arranged
+
+WWW Learning Temporal Interaction Graph Embedding via Coupled Memory Networks
+
+https://dl.acm.org/doi/pdf/10.1145/3366423.3380076
+
+WWW Continuous-Time Link Prediction via Temporal DependentGraph Neural Network
+
+https://dl.acm.org/doi/pdf/10.1145/3366423.3380073
 
 ## Methods
 - [TGAT: INDUCTIVE REPRESENTATION LEARNING ON TEMPORAL GRAPHS](https://openreview.net/forum?id=rJeW1yHYwH)
