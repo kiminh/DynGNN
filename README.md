@@ -11,6 +11,11 @@ WWW Continuous-Time Link Prediction via Temporal DependentGraph Neural Network
 
 https://dl.acm.org/doi/pdf/10.1145/3366423.3380073
 
+K-Core based Temporal Graph Convolutional Network for Dynamic Graphs
+
+https://arxiv.org/abs/2003.09902
+
+
 ## Methods
 - [TGAT: INDUCTIVE REPRESENTATION LEARNING ON TEMPORAL GRAPHS](https://openreview.net/forum?id=rJeW1yHYwH)
 	- ICLR2020
@@ -66,7 +71,6 @@ https://dl.acm.org/doi/pdf/10.1145/3366423.3380073
 
 ### App action forecast
 - G-TAD: Sub-Graph Localization for Temporal Action Detection
-
 
 ## Task
 - Link prediction
