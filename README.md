@@ -15,6 +15,10 @@ K-Core based Temporal Graph Convolutional Network for Dynamic Graphs
 
 https://arxiv.org/abs/2003.09902
 
+## Survey
+- [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://arxiv.org/pdf/1905.11485.pdf)
+
+- [Representation Learning for Dynamic Graphs: A Survey](https://arxiv.org/pdf/2005.07496.pdf)
 
 ## Methods
 - [TGAT: INDUCTIVE REPRESENTATION LEARNING ON TEMPORAL GRAPHS](https://openreview.net/forum?id=rJeW1yHYwH)
